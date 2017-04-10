@@ -80,7 +80,7 @@ form{
 	padding: 2px 5px  ;
 	background:#3c68af;
 	color: white;
-	border:none;
+	border: none;
 	font-size: 12px;
 	font-weight: bold;
 	font-family: sans-serif;
@@ -92,9 +92,7 @@ form{
 	padding: 0;
 }
 
-#sub input value :hover{
-	color: #red;
-}
+
 
 
 /*top end*/
