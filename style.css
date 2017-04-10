@@ -1,5 +1,4 @@
 
-
 body{
 	margin: 0;
 	padding: 0;
@@ -90,6 +89,10 @@ form{
 .pass p{
 	margin: 2px 0;
 	padding: 0;
+}
+
+#sub input value :hover{
+	color: #red;
 }
 
 
@@ -342,7 +345,9 @@ select {
 	padding: 0 13px;
 }
 .language table td a{
+	color: #365899;
 	text-decoration: none;
+	font-size: 13px;
 }
 
 .more  {
@@ -359,9 +364,13 @@ select {
 .more table td{
 	margin: 0;
 	padding: 0 10px;
+
 }
 .more table tr a{
+	color:#365899;
 	text-decoration: none;
+	font-size: 13px;
+
 }
 
 
