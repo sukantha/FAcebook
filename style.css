@@ -1,4 +1,5 @@
 
+
 body{
 	margin: 0;
 	padding: 0;
@@ -358,6 +359,9 @@ select {
 .more table td{
 	margin: 0;
 	padding: 0 10px;
+}
+.more table tr a{
+	text-decoration: none;
 }
 
 
